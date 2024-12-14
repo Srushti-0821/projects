@@ -1,0 +1,380 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* *************************** HEADER SECTION ********************************** */
+
+header {
+    background-color: #C2EFD4;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logo {
+    width: 3%;
+}
+
+.link {
+    margin-left: 10%;
+}
+
+.link a {
+    text-decoration: none;
+    color: #224F34;
+    margin-left: 10%;
+}
+
+.logo1 {
+    margin-left: 10%;
+}
+
+.btn {
+    background-color: #C2EFD4;
+    height: 4vh;
+    width: 5%;
+    margin-left: 5%;
+}
+
+/* ******************* section 1 ********************** */
+
+section {
+    background-color: #C2EFD4;
+    margin-left: 10%;
+    margin-right: 10%;  
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    /* margin-left: 7.5%; */
+    margin-top: 3%;
+}
+
+.para {
+    width: 469px;
+    font-size: 60px;
+    color: #224F34;
+    margin-left: 50%;
+    padding-top: 10%;
+}
+
+.para1 {
+    width: 469px;
+    font-size: 20px;
+    color: #224F34;
+    margin-left: 50%;
+    line-height: 30px;
+    margin-top: 4%;
+}
+
+.btn1 {
+    height: 5vh;
+    width: 30%;
+    margin-left: 50%;
+    margin-top: 4%;
+    margin-bottom: 7%;
+    background-color: #224F34;
+    color: #FFFFFF;
+    box-shadow: 7px 7px rgba(0, 0, 0, 0.192);
+}
+
+.box2 {
+    margin-right: 20%;
+    margin-bottom: 7%;
+    margin-top: 5%;
+}
+
+.img1 {
+    height: 40vh;
+    background-color: #C2EFD4;
+}
+
+/* ************************ SECTION 2 ************************************** */
+
+.heading h1 {
+    text-align: center;
+    margin-top: 3%;
+    color: #224F34;
+}
+
+.heading p {
+    text-align: center;
+    margin-top: 1%;
+    color: #224F34;
+    font-weight: bolder;
+}
+
+.box3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+}
+
+.box3-1 {
+    background-color: #73be75;
+    height: 50vh;
+    width: 20%;
+}
+
+.box3-1 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box3-2 {
+    background-color: #C2EFD4;
+    height: 50vh;
+    width: 20%;
+}
+
+.box3-2 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box3-3 {
+    background-color: #9bd8b3;
+    height: 50vh;
+    width: 20%;
+}
+
+.box3-3 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.btn2 {
+    margin-top: 5%;
+    margin-left: 45%;
+    margin-bottom: 3%;
+    height: 4vh;
+    width: 10%;
+    background-color: #ffffff;
+    font-size: 20px;
+}
+
+/* ************************ SECTION 3 ************************************** */
+
+.heading1 h1 {
+    text-align: center;
+    margin-top: 3%;
+    color: #224F34;
+}
+
+.tags {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 2%;
+    color: #224F34;
+}
+
+.box4 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.box4-1 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box4-1 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot1 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box4-2 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box4-2 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot1 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box4-3 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box4-3 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot1 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box4-4 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box4-4 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot1 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box5 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.box5-1 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box5-1 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot2 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box5-2 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box5-2 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot2 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box5-3 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box5-3 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot2 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.box5-4 {
+    border: 1px solid black;
+    height: 40vh;
+}
+
+.box5-4 p {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.tot2 {
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+/* ***************** SECTION 4 **************************** */
+
+.section3 {
+    background-color: #C2EFD4;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* 
+.box6{
+    border: 1px solid black;
+} */
+
+.box7{
+    border: 1px solid black;
+    margin-top: 10%;
+}
+
+.haeding2{
+   margin-bottom: 10%;
+   color: #224F34;
+}
+
+.para2{
+    margin-top: 8%;
+    line-height: 20px;
+    color: #224F34;
+}
